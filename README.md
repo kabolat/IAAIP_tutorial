@@ -24,9 +24,13 @@ If you run the notebook on local, you can
 
 ## Some references
 [［1］](https://arxiv.org/abs/1312.6114) Kingma, D. P., & Welling, M. (2013). Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114.
+
 [［2］](https://openreview.net/forum?id=Sy2fzU9gl) Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot, X., Botvinick, M., ... & Lerchner, A. (2016). beta-vae: Learning basic visual concepts with a constrained variational framework.
+
 [［3］](https://agustinus.kristia.de/techblog/2016/12/17/conditional-vae/) Kristiadi, Agustinus (2022). Conditional Variational Autoencoder: Intuition and Implementation. https://agustinus.kristia.de/techblog/2016/12/17/conditional-vae/
+
 [［4］](https://ijdykeman.github.io/ml/2016/12/21/cvae.html) Dykeman, Isaac (2016). Conditional Variational Autoencoders. https://ijdykeman.github.io/ml/2016/12/21/cvae.html
+
 [［5］](https://arxiv.org/abs/2110.11435)Wang, C., Sharifnia, E., Gao, Z., Tindemans, S. H., & Palensky, P. (2022). Generating multivariate load states using a conditional variational autoencoder. Electric Power Systems Research, 213, 108603.
 
 
