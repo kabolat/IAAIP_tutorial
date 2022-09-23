@@ -4,7 +4,7 @@
 
 *Assistant: Kutay Bölat*
 
-This repo is dedicated to the demo notebook for TU Delft IAAIP 2022 - Synthetic Data Generation using Variational Autoencoders (VAEs) tutorial. It contains the end-to-end training of a (modifiable) VAE. The dataset of choice is [Individual Household Electric Power Consumption Dataset](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption). The resolution of the smart meter readings is 60 minutes but can be decreased until 1 minute. Besides training, several visualizations are included at the end of the notebook: reconstruction, latent space and generation.
+This repo is dedicated to the demo notebook for TU Delft IAAIP 2022 - Synthetic Data Generation using Variational Autoencoders (VAEs) tutorial. It contains the end-to-end training of a (modifiable) VAE. The dataset of choice is [Individual Household Electric Power Consumption Dataset](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption). The resolution of the smart meter readings is 60 minutes but can be decreased until 1 minute. Besides training, several visualizations are included at the end of the notebook: reconstruction and latent space.
 
 ## Running the notebook
 
@@ -21,6 +21,9 @@ If you run the notebook on local, you can
 - [use environment.yml](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) (for Conda), or
 - [use requirements.txt](https://pip.pypa.io/en/stable/user_guide/#requirements-files) (for pip).
 
+## TO DO
+1. Add visualizations of generated samples.
+2. Include conditions on latent space visualization.
 
 ## Some references
 [［1］](https://arxiv.org/abs/1312.6114) Kingma, D. P., & Welling, M. (2013). Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114.
