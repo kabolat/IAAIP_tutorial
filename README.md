@@ -22,8 +22,7 @@ If you run the notebook on local, you can
 - [use requirements.txt](https://pip.pypa.io/en/stable/user_guide/#requirements-files) (for pip).
 
 ## TO DO
-1. Add visualizations of generated samples.
-2. Include conditions on latent space visualization.
+1. Include conditions on latent space visualization.
 
 ## Some references
 [［1］](https://arxiv.org/abs/1312.6114) Kingma, D. P., & Welling, M. (2013). Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114.
